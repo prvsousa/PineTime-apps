@@ -72,6 +72,8 @@ Use `make all` in the application directory to build the firmware, `make flash`
 to flash it on the target and `make term` to get a serial connection to the
 device. 
 
+To flash with Raspberry PI, the instruction are [here]().
+
 ### Development
 
 As the project is based on RIOT, it helps to get familiar with RIOT and check
